@@ -15,7 +15,7 @@ funAnimals.push({
 funAnimals.push({
     name: "Peter",
     type: "Tortoise",
-    reason: "back yard grass eater"
+    why: "back yard grass eater"
 })
 
 for (let animal of funAnimals) {
